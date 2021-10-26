@@ -1,0 +1,6 @@
+beautifulsoup4
+IPython
+spotipy
+Flask
+pydub
+google-cloud-storage
